@@ -7,4 +7,4 @@ A minimalistic web application with an elegant navbar animation. Animated were o
 ![navweb_Image_2](https://i.postimg.cc/hjPMbSYG/Screenshot-7.png)
 
 ## Demo Application
-Visit the [link](https://three-js-spinme-website.vercel.app/) to test the web-application at your own pleasure.
+Visit the [link](https://github.com/Boierul/gsap-menu-website-react) to check the deployed web-application (in React.js).
